@@ -1,4 +1,5 @@
 # IGNORED FILES AND FOLDERS
 out/
 .idea/
-Part2.iml/
+*.iml
+*.gitignore
